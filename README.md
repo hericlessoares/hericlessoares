@@ -1,27 +1,34 @@
-### Saudações membros da matrix!
-## Bem vindos ao meu perfil!
-Me chamo Hericles Soares Vieira.
+<h2 align="center" > Saudações 👋 membros da matrix!</h2>
+
+
+
+<h3 align="center"> Bem vindos ao meu perfil!!!🥰 </h3>
+ <p align="center" > ✝ ♐ </p>
+
+ <p align="center">💬<samp>Meu nome é Hericles Soares Vieira.</p>
+       <p align="center"><samp>Um curioso e ainda não tão experiente programador em euforia pela beleza de cada linha de codigo</p>
 
  <div>
   <a href="https://github.com/hericlessoares">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hericlessoares&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlessoares&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hericlessoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=Hericles Soares"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlessoares&layout=compact&langs_count=16&theme=gotham&custom_title=Linguagens e Frameworks">
 <div>
+
+ 
+ ### 💻 Linguagens e Frameworks
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Her-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Her-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Her-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Her-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Her-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Her-yoda" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+
 </div>
   
-  ##
+ 
+ <div>
+    <img align="right" alt="Her-yoda" height="300px" width="500px"src="https://i.pinimg.com/originals/c9/fc/c1/c9fcc14469e700bb40c3b09f5ffbd553.gif">
+ </div>
+  <br>
  
 <div> 
-  <a href = "mailto: hericleshsv3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hericles-soares-7a580a192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<a href = "mailto: hericleshsv3@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<a href="https://www.linkedin.com/in/hericles-soares-7a580a192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
