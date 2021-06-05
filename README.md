@@ -25,6 +25,16 @@
 </div>
   
  
+  ### 📕 Livros Favoritos
+<p> <ul>
+      <li> Frankenstein </li>
+      <li> Caverna de Cristal </li>
+      <li> Medico e monstro </li>
+      <li> Ayako</li>
+      </ul>
+  <p/>
+  
+ 
  <div>
     <img align="right" alt="Her-yoda" height="300px" width="500px"src="https://i.pinimg.com/originals/c9/fc/c1/c9fcc14469e700bb40c3b09f5ffbd553.gif">
  </div>
