@@ -29,7 +29,7 @@
 <p> <ul>
       <li> Frankenstein </li>
       <li> Caverna de Cristal </li>
-      <li> Medico e monstro </li>
+      <li> Medico e o monstro </li>
       <li> Ayako</li>
       </ul>
   <p/>
