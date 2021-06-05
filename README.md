@@ -3,7 +3,7 @@
 
 <h3 align="center"> Bem vindos ao meu perfil!!!🥰 </h3>
  
- <p> ✝ ♐ </p>
+ <p> ✝ ♐ ☪ </p>
  <p >💬<samp>Meu nome é Hericles Soares Vieira.</p>
  <p><samp>Um curioso e ainda não tão experiente programador em euforia pela beleza de cada linha de codigo💜💜💜</p>
 
