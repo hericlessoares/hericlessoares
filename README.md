@@ -10,7 +10,7 @@
  <div>
      <a href="https://github.com/hericlessoares">
      <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=hericlessoares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&custom_title=Hericles Soares"/>
-     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlessoares&layout=compact&langs_count=16&theme=gotham&custom_title=Linguagens e Frameworks">
+     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlessoares&layout=compact&langs_count=8&theme=gotham&custom_title=Linguagens e Frameworks">
 <div>
 
  
